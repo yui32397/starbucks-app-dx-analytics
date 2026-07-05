@@ -1,3 +1,6 @@
+![Unofficial](https://img.shields.io/badge/Status-Unofficial%20/%20Portfolio-red?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-Simulated%20/%20Dummy-orange?style=for-the-badge)
+
 ---
 
 ## ⚠️ 免責事項 / Disclaimer (必ずお読みください)
